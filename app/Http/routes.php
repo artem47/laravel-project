@@ -22,4 +22,9 @@ get('about', function(){
 });
 
 
-//Whatever logic to reporting;
+get('reporting', function(){
+
+    return "reporting features";
+
+});
+
