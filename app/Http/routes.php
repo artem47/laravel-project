@@ -21,4 +21,12 @@ get('abot', function(){
 
 });
 
+
+get('reporting', function(){
+
+    return "reporting features";
+
+});
+
+
 //Whatever logic to reporting;
