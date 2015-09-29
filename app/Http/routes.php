@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-get('abot', function(){
+get('about', function(){
 
     return "About Page";
 
